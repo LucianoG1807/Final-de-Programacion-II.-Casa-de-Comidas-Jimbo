@@ -1,0 +1,1244 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="GR-HOt_B4yKZBJARaTkV">
+    <mxGraphModel dx="2508" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1GOfkMONHc0E9LckjV6v-1" parent="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#000000;fillColor=#a20025;collapsible=0;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="311" width="1110" x="-510" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-194" parent="1GOfkMONHc0E9LckjV6v-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" vertex="1">
+          <mxGeometry height="49" width="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-195" parent="1GOfkMONHc0E9LckjV6v-194" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;rowspan=1;colspan=4;" value="ENCAPSULAMIENTO Y CONSTRUCTORES" vertex="1">
+          <mxGeometry height="49" width="888" as="geometry">
+            <mxRectangle height="49" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-196" parent="1GOfkMONHc0E9LckjV6v-194" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="49" width="181" x="91" as="geometry">
+            <mxRectangle height="49" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-197" parent="1GOfkMONHc0E9LckjV6v-194" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="49" width="516" x="272" as="geometry">
+            <mxRectangle height="49" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-198" parent="1GOfkMONHc0E9LckjV6v-194" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="49" width="100" x="788" as="geometry">
+            <mxRectangle height="49" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-220" parent="1GOfkMONHc0E9LckjV6v-194" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" vertex="1">
+          <mxGeometry height="49" width="222" x="888" as="geometry">
+            <mxRectangle height="49" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-2" parent="1GOfkMONHc0E9LckjV6v-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="21" width="1110" y="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-3" parent="1GOfkMONHc0E9LckjV6v-2" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Código" vertex="1">
+          <mxGeometry height="21" width="91" as="geometry">
+            <mxRectangle height="21" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-4" parent="1GOfkMONHc0E9LckjV6v-2" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Nombre" vertex="1">
+          <mxGeometry height="21" width="181" x="91" as="geometry">
+            <mxRectangle height="21" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-5" parent="1GOfkMONHc0E9LckjV6v-2" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Característica" vertex="1">
+          <mxGeometry height="21" width="516" x="272" as="geometry">
+            <mxRectangle height="21" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-6" parent="1GOfkMONHc0E9LckjV6v-2" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Estado" vertex="1">
+          <mxGeometry height="21" width="100" x="788" as="geometry">
+            <mxRectangle height="21" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-221" parent="1GOfkMONHc0E9LckjV6v-2" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Comprobacion" vertex="1">
+          <mxGeometry height="21" width="222" x="888" as="geometry">
+            <mxRectangle height="21" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-7" parent="1GOfkMONHc0E9LckjV6v-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="47" width="1110" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-8" parent="1GOfkMONHc0E9LckjV6v-7" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#a20025;strokeColor=#000000;fontColor=#ffffff;" value="RM-06" vertex="1">
+          <mxGeometry height="47" width="91" as="geometry">
+            <mxRectangle height="47" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-9" parent="1GOfkMONHc0E9LckjV6v-7" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Atributos privados" vertex="1">
+          <mxGeometry height="47" width="181" x="91" as="geometry">
+            <mxRectangle height="47" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-10" parent="1GOfkMONHc0E9LckjV6v-7" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Todos los atributos de instancia de las clases de dominio son private." vertex="1">
+          <mxGeometry height="47" width="516" x="272" as="geometry">
+            <mxRectangle height="47" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-11" parent="1GOfkMONHc0E9LckjV6v-7" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="47" width="100" x="788" as="geometry">
+            <mxRectangle height="47" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-222" parent="1GOfkMONHc0E9LckjV6v-7" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" value="Todos los atributos de instancia de las clases de dominio son privados." vertex="1">
+          <mxGeometry height="47" width="222" x="888" as="geometry">
+            <mxRectangle height="47" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-12" parent="1GOfkMONHc0E9LckjV6v-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="49" width="1110" y="117" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-13" parent="1GOfkMONHc0E9LckjV6v-12" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#F9F9F9;strokeColor=#000000;" value="RM-07" vertex="1">
+          <mxGeometry height="49" width="91" as="geometry">
+            <mxRectangle height="49" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-14" parent="1GOfkMONHc0E9LckjV6v-12" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Getters y setters" vertex="1">
+          <mxGeometry height="49" width="181" x="91" as="geometry">
+            <mxRectangle height="49" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-15" parent="1GOfkMONHc0E9LckjV6v-12" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Se utilizan getters solamente para la información que otras clases necesitan consultar y setters solamente cuando tiene sentido modificar el atributo desde afuera. Los datos que no deben cambiar no tienen setter." vertex="1">
+          <mxGeometry height="49" width="516" x="272" as="geometry">
+            <mxRectangle height="49" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-16" parent="1GOfkMONHc0E9LckjV6v-12" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="49" width="100" x="788" as="geometry">
+            <mxRectangle height="49" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-223" parent="1GOfkMONHc0E9LckjV6v-12" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" value="Los getters permiten consultar información y no utilizamos setters innecesarios." vertex="1">
+          <mxGeometry height="49" width="222" x="888" as="geometry">
+            <mxRectangle height="49" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-17" parent="1GOfkMONHc0E9LckjV6v-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="49" width="1110" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-18" parent="1GOfkMONHc0E9LckjV6v-17" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="RM-08" vertex="1">
+          <mxGeometry height="49" width="91" as="geometry">
+            <mxRectangle height="49" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-19" parent="1GOfkMONHc0E9LckjV6v-17" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Validación de datos" vertex="1">
+          <mxGeometry height="49" width="181" x="91" as="geometry">
+            <mxRectangle height="49" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-20" parent="1GOfkMONHc0E9LckjV6v-17" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Todo método que modifica el estado valida los datos antes de hacerlo, evitando que los objetos queden en un estado inválido." vertex="1">
+          <mxGeometry height="49" width="516" x="272" as="geometry">
+            <mxRectangle height="49" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-21" parent="1GOfkMONHc0E9LckjV6v-17" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="49" width="100" x="788" as="geometry">
+            <mxRectangle height="49" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-224" parent="1GOfkMONHc0E9LckjV6v-17" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" value="Los métodos que modifican objetos realizan validaciones antes de cambiar sus estados." vertex="1">
+          <mxGeometry height="49" width="222" x="888" as="geometry">
+            <mxRectangle height="49" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-22" parent="1GOfkMONHc0E9LckjV6v-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="47" width="1110" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-23" parent="1GOfkMONHc0E9LckjV6v-22" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#F9F9F9;strokeColor=#000000;" value="RM-09" vertex="1">
+          <mxGeometry height="47" width="91" as="geometry">
+            <mxRectangle height="47" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-24" parent="1GOfkMONHc0E9LckjV6v-22" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Métodos de acción" vertex="1">
+          <mxGeometry height="47" width="181" x="91" as="geometry">
+            <mxRectangle height="47" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-25" parent="1GOfkMONHc0E9LckjV6v-22" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Las operaciones del problema se escriben como métodos con nombre de acción, por ejemplo vender(), reponer() o registrar(), y no como setters disfrazados." vertex="1">
+          <mxGeometry height="47" width="516" x="272" as="geometry">
+            <mxRectangle height="47" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-26" parent="1GOfkMONHc0E9LckjV6v-22" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="47" width="100" x="788" as="geometry">
+            <mxRectangle height="47" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-225" parent="1GOfkMONHc0E9LckjV6v-22" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" value="Utilizamos métodos de acción:&lt;br&gt;regustarPago(), reponerStock(), cambiarEstado()" vertex="1">
+          <mxGeometry height="47" width="222" x="888" as="geometry">
+            <mxRectangle height="47" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-27" parent="1GOfkMONHc0E9LckjV6v-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="49" width="1110" y="262" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-28" parent="1GOfkMONHc0E9LckjV6v-27" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="RM-10" vertex="1">
+          <mxGeometry height="49" width="91" as="geometry">
+            <mxRectangle height="49" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-29" parent="1GOfkMONHc0E9LckjV6v-27" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Constructores sobrecargados" vertex="1">
+          <mxGeometry height="49" width="181" x="91" as="geometry">
+            <mxRectangle height="49" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-30" parent="1GOfkMONHc0E9LckjV6v-27" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Al menos una clase tiene constructores sobrecargados y utiliza this correctamente, para distinguir atributos de parámetros o encadenar constructores." vertex="1">
+          <mxGeometry height="49" width="516" x="272" as="geometry">
+            <mxRectangle height="49" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-31" parent="1GOfkMONHc0E9LckjV6v-27" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="49" width="100" x="788" as="geometry">
+            <mxRectangle height="49" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-226" parent="1GOfkMONHc0E9LckjV6v-27" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" value="La clase Plato tiene constructores sobrecargados y utiliza this para encadenarlos." vertex="1">
+          <mxGeometry height="49" width="222" x="888" as="geometry">
+            <mxRectangle height="49" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-33" parent="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#000000;fillColor=none;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="200" width="1110" x="-510" y="908" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-189" parent="1GOfkMONHc0E9LckjV6v-33" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" vertex="1">
+          <mxGeometry height="44" width="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-190" parent="1GOfkMONHc0E9LckjV6v-189" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;rowspan=1;colspan=4;" value="RELACIONES ENTRE CLASES" vertex="1">
+          <mxGeometry height="44" width="888" as="geometry">
+            <mxRectangle height="44" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-191" parent="1GOfkMONHc0E9LckjV6v-189" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="44" width="181" x="91" as="geometry">
+            <mxRectangle height="44" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-192" parent="1GOfkMONHc0E9LckjV6v-189" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="44" width="516" x="272" as="geometry">
+            <mxRectangle height="44" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-193" parent="1GOfkMONHc0E9LckjV6v-189" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="44" width="100" x="788" as="geometry">
+            <mxRectangle height="44" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-227" parent="1GOfkMONHc0E9LckjV6v-189" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" vertex="1">
+          <mxGeometry height="44" width="222" x="888" as="geometry">
+            <mxRectangle height="44" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-34" parent="1GOfkMONHc0E9LckjV6v-33" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="23" width="1110" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-35" parent="1GOfkMONHc0E9LckjV6v-34" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Código" vertex="1">
+          <mxGeometry height="23" width="91" as="geometry">
+            <mxRectangle height="23" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-36" parent="1GOfkMONHc0E9LckjV6v-34" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Nombre" vertex="1">
+          <mxGeometry height="23" width="181" x="91" as="geometry">
+            <mxRectangle height="23" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-37" parent="1GOfkMONHc0E9LckjV6v-34" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Característica" vertex="1">
+          <mxGeometry height="23" width="516" x="272" as="geometry">
+            <mxRectangle height="23" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-38" parent="1GOfkMONHc0E9LckjV6v-34" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Estado" vertex="1">
+          <mxGeometry height="23" width="100" x="788" as="geometry">
+            <mxRectangle height="23" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-228" parent="1GOfkMONHc0E9LckjV6v-34" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Comprobacion" vertex="1">
+          <mxGeometry height="23" width="222" x="888" as="geometry">
+            <mxRectangle height="23" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-39" parent="1GOfkMONHc0E9LckjV6v-33" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="44" width="1110" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-40" parent="1GOfkMONHc0E9LckjV6v-39" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#a20025;strokeColor=#000000;fontColor=#ffffff;" value="RM-11" vertex="1">
+          <mxGeometry height="44" width="91" as="geometry">
+            <mxRectangle height="44" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-41" parent="1GOfkMONHc0E9LckjV6v-39" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Agregación o composición" vertex="1">
+          <mxGeometry height="44" width="181" x="91" as="geometry">
+            <mxRectangle height="44" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-42" parent="1GOfkMONHc0E9LckjV6v-39" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Existe al menos una relación de agregación o composición: una clase contiene una colección de objetos de otra, mediante un arreglo o ArrayList." vertex="1">
+          <mxGeometry height="44" width="516" x="272" as="geometry">
+            <mxRectangle height="44" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-43" parent="1GOfkMONHc0E9LckjV6v-39" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="44" width="100" x="788" as="geometry">
+            <mxRectangle height="44" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-229" parent="1GOfkMONHc0E9LckjV6v-39" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Pedido&lt;/code&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt; contiene una colección de objetos &lt;/span&gt;&lt;code style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;DetallePedido&lt;/code&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="222" x="888" as="geometry">
+            <mxRectangle height="44" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-44" parent="1GOfkMONHc0E9LckjV6v-33" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="45" width="1110" y="111" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-45" parent="1GOfkMONHc0E9LckjV6v-44" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#F9F9F9;strokeColor=#000000;" value="RM-12" vertex="1">
+          <mxGeometry height="45" width="91" as="geometry">
+            <mxRectangle height="45" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-46" parent="1GOfkMONHc0E9LckjV6v-44" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Asociación" vertex="1">
+          <mxGeometry height="45" width="181" x="91" as="geometry">
+            <mxRectangle height="45" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-47" parent="1GOfkMONHc0E9LckjV6v-44" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Existe al menos una relación de asociación entre dos clases de dominio: un objeto conoce a otro y le envía mensajes." vertex="1">
+          <mxGeometry height="45" width="516" x="272" as="geometry">
+            <mxRectangle height="45" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-48" parent="1GOfkMONHc0E9LckjV6v-44" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="100" x="788" as="geometry">
+            <mxRectangle height="45" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-230" parent="1GOfkMONHc0E9LckjV6v-44" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" value="Pedido conoce a Cliente&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;DetallePedido conoce a Producto&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="222" x="888" as="geometry">
+            <mxRectangle height="45" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-49" parent="1GOfkMONHc0E9LckjV6v-33" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="44" width="1110" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-50" parent="1GOfkMONHc0E9LckjV6v-49" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="RM-13" vertex="1">
+          <mxGeometry height="44" width="91" as="geometry">
+            <mxRectangle height="44" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-51" parent="1GOfkMONHc0E9LckjV6v-49" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Colaboración entre objetos" vertex="1">
+          <mxGeometry height="44" width="181" x="91" as="geometry">
+            <mxRectangle height="44" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-52" parent="1GOfkMONHc0E9LckjV6v-49" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Al menos una operación del sistema involucra a más de un objeto y cada uno resuelve la parte que le corresponde." vertex="1">
+          <mxGeometry height="44" width="516" x="272" as="geometry">
+            <mxRectangle height="44" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-53" parent="1GOfkMONHc0E9LckjV6v-49" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="44" width="100" x="788" as="geometry">
+            <mxRectangle height="44" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-231" parent="1GOfkMONHc0E9LckjV6v-49" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" value="Los objetos colaboran; por ejemplo, al entregar un pedido se solicita a los productos descontar su stock." vertex="1">
+          <mxGeometry height="44" width="222" x="888" as="geometry">
+            <mxRectangle height="44" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-54" parent="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#000000;fillColor=none;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="285" width="1110" x="-510" y="1145" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-184" parent="1GOfkMONHc0E9LckjV6v-54" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" vertex="1">
+          <mxGeometry height="40" width="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-185" parent="1GOfkMONHc0E9LckjV6v-184" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;rowspan=1;colspan=4;" value="HERENCIA" vertex="1">
+          <mxGeometry height="40" width="890" as="geometry">
+            <mxRectangle height="40" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-186" parent="1GOfkMONHc0E9LckjV6v-184" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="180" x="90" as="geometry">
+            <mxRectangle height="40" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-187" parent="1GOfkMONHc0E9LckjV6v-184" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="511" x="270" as="geometry">
+            <mxRectangle height="40" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-188" parent="1GOfkMONHc0E9LckjV6v-184" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="109" x="781" as="geometry">
+            <mxRectangle height="40" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-232" parent="1GOfkMONHc0E9LckjV6v-184" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" vertex="1">
+          <mxGeometry height="40" width="220" x="890" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-55" parent="1GOfkMONHc0E9LckjV6v-54" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="20" width="1110" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-56" parent="1GOfkMONHc0E9LckjV6v-55" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Código" vertex="1">
+          <mxGeometry height="20" width="90" as="geometry">
+            <mxRectangle height="20" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-57" parent="1GOfkMONHc0E9LckjV6v-55" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Nombre" vertex="1">
+          <mxGeometry height="20" width="180" x="90" as="geometry">
+            <mxRectangle height="20" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-58" parent="1GOfkMONHc0E9LckjV6v-55" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Característica" vertex="1">
+          <mxGeometry height="20" width="511" x="270" as="geometry">
+            <mxRectangle height="20" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-59" parent="1GOfkMONHc0E9LckjV6v-55" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Estado" vertex="1">
+          <mxGeometry height="20" width="109" x="781" as="geometry">
+            <mxRectangle height="20" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-233" parent="1GOfkMONHc0E9LckjV6v-55" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Comprobacion" vertex="1">
+          <mxGeometry height="20" width="220" x="890" as="geometry">
+            <mxRectangle height="20" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-60" parent="1GOfkMONHc0E9LckjV6v-54" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="55" width="1110" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-61" parent="1GOfkMONHc0E9LckjV6v-60" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#a20025;strokeColor=#000000;fontColor=#ffffff;" value="RM-14" vertex="1">
+          <mxGeometry height="55" width="90" as="geometry">
+            <mxRectangle height="55" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-62" parent="1GOfkMONHc0E9LckjV6v-60" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Jerarquía de herencia" vertex="1">
+          <mxGeometry height="55" width="180" x="90" as="geometry">
+            <mxRectangle height="55" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-63" parent="1GOfkMONHc0E9LckjV6v-60" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Existe al menos una jerarquía con una superclase abstracta y al menos 2 subclases concretas." vertex="1">
+          <mxGeometry height="55" width="511" x="270" as="geometry">
+            <mxRectangle height="55" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-64" parent="1GOfkMONHc0E9LckjV6v-60" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="55" width="109" x="781" as="geometry">
+            <mxRectangle height="55" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-234" parent="1GOfkMONHc0E9LckjV6v-60" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" value="Tenemos dos jerarquías independientes, cada una con una clase abstracta y dos subclases." vertex="1">
+          <mxGeometry height="55" width="220" x="890" as="geometry">
+            <mxRectangle height="55" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-65" parent="1GOfkMONHc0E9LckjV6v-54" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="1110" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-66" parent="1GOfkMONHc0E9LckjV6v-65" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#e3c800;strokeColor=#000000;fontColor=#000000;" value="RM-15" vertex="1">
+          <mxGeometry height="40" width="90" as="geometry">
+            <mxRectangle height="40" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-67" parent="1GOfkMONHc0E9LckjV6v-65" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Relación es un/a" vertex="1">
+          <mxGeometry height="40" width="180" x="90" as="geometry">
+            <mxRectangle height="40" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-68" parent="1GOfkMONHc0E9LckjV6v-65" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Cada herencia cumple la prueba es un/a y está justificada por escrito en la documentación." vertex="1">
+          <mxGeometry height="40" width="511" x="270" as="geometry">
+            <mxRectangle height="40" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-69" parent="1GOfkMONHc0E9LckjV6v-65" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="109" x="781" as="geometry">
+            <mxRectangle height="40" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-235" parent="1GOfkMONHc0E9LckjV6v-65" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#e3c800;strokeColor=#000000;fontColor=#000000;" vertex="1">
+          <mxGeometry height="40" width="220" x="890" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-70" parent="1GOfkMONHc0E9LckjV6v-54" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="50" width="1110" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-71" parent="1GOfkMONHc0E9LckjV6v-70" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="RM-16" vertex="1">
+          <mxGeometry height="50" width="90" as="geometry">
+            <mxRectangle height="50" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-72" parent="1GOfkMONHc0E9LckjV6v-70" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Uso de super" vertex="1">
+          <mxGeometry height="50" width="180" x="90" as="geometry">
+            <mxRectangle height="50" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-73" parent="1GOfkMONHc0E9LckjV6v-70" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Los constructores de las subclases llaman a super(...) para inicializar la parte heredada." vertex="1">
+          <mxGeometry height="50" width="511" x="270" as="geometry">
+            <mxRectangle height="50" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-74" parent="1GOfkMONHc0E9LckjV6v-70" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="109" x="781" as="geometry">
+            <mxRectangle height="50" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-236" parent="1GOfkMONHc0E9LckjV6v-70" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Los constructores de las subclases utilizan: super()&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;para inicializar la clase padre.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="220" x="890" as="geometry">
+            <mxRectangle height="50" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-75" parent="1GOfkMONHc0E9LckjV6v-54" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="1110" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-76" parent="1GOfkMONHc0E9LckjV6v-75" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#F9F9F9;strokeColor=#000000;" value="RM-17" vertex="1">
+          <mxGeometry height="40" width="90" as="geometry">
+            <mxRectangle height="40" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-77" parent="1GOfkMONHc0E9LckjV6v-75" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Especialización de subclases" vertex="1">
+          <mxGeometry height="40" width="180" x="90" as="geometry">
+            <mxRectangle height="40" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-78" parent="1GOfkMONHc0E9LckjV6v-75" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Cada subclase agrega al menos un atributo o comportamiento propio que la diferencia de las otras." vertex="1">
+          <mxGeometry height="40" width="511" x="270" as="geometry">
+            <mxRectangle height="40" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-79" parent="1GOfkMONHc0E9LckjV6v-75" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="109" x="781" as="geometry">
+            <mxRectangle height="40" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-237" parent="1GOfkMONHc0E9LckjV6v-75" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" value="Cada subclase incorpora características o comportamientos propios." vertex="1">
+          <mxGeometry height="40" width="220" x="890" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-80" parent="1GOfkMONHc0E9LckjV6v-54" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="1110" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-81" parent="1GOfkMONHc0E9LckjV6v-80" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="RM-18" vertex="1">
+          <mxGeometry height="40" width="90" as="geometry">
+            <mxRectangle height="40" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-82" parent="1GOfkMONHc0E9LckjV6v-80" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Sobrescritura de toString" vertex="1">
+          <mxGeometry height="40" width="180" x="90" as="geometry">
+            <mxRectangle height="40" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-83" parent="1GOfkMONHc0E9LckjV6v-80" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Las clases de dominio sobrescriben toString() utilizando la anotación @Override." vertex="1">
+          <mxGeometry height="40" width="511" x="270" as="geometry">
+            <mxRectangle height="40" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-84" parent="1GOfkMONHc0E9LckjV6v-80" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="109" x="781" as="geometry">
+            <mxRectangle height="40" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-238" parent="1GOfkMONHc0E9LckjV6v-80" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Las 8 clases de dominio sobrescriben toString()&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&amp;nbsp;utilizando @override.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="890" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-85" parent="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#000000;fillColor=none;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="270" width="1110" x="-510" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-179" parent="1GOfkMONHc0E9LckjV6v-85" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" vertex="1">
+          <mxGeometry height="40" width="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-180" parent="1GOfkMONHc0E9LckjV6v-179" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;rowspan=1;colspan=4;" value="POLIMORFISMO, ABSTRACCION, INTERFACES" vertex="1">
+          <mxGeometry height="40" width="888" as="geometry">
+            <mxRectangle height="40" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-181" parent="1GOfkMONHc0E9LckjV6v-179" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="181" x="91" as="geometry">
+            <mxRectangle height="40" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-182" parent="1GOfkMONHc0E9LckjV6v-179" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="516" x="272" as="geometry">
+            <mxRectangle height="40" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-183" parent="1GOfkMONHc0E9LckjV6v-179" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="100" x="788" as="geometry">
+            <mxRectangle height="40" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-246" parent="1GOfkMONHc0E9LckjV6v-179" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" vertex="1">
+          <mxGeometry height="40" width="222" x="888" as="geometry">
+            <mxRectangle height="40" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-86" parent="1GOfkMONHc0E9LckjV6v-85" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="20" width="1110" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-87" parent="1GOfkMONHc0E9LckjV6v-86" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Código" vertex="1">
+          <mxGeometry height="20" width="91" as="geometry">
+            <mxRectangle height="20" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-88" parent="1GOfkMONHc0E9LckjV6v-86" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Nombre" vertex="1">
+          <mxGeometry height="20" width="181" x="91" as="geometry">
+            <mxRectangle height="20" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-89" parent="1GOfkMONHc0E9LckjV6v-86" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Característica" vertex="1">
+          <mxGeometry height="20" width="516" x="272" as="geometry">
+            <mxRectangle height="20" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-90" parent="1GOfkMONHc0E9LckjV6v-86" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Estado" vertex="1">
+          <mxGeometry height="20" width="100" x="788" as="geometry">
+            <mxRectangle height="20" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-247" parent="1GOfkMONHc0E9LckjV6v-86" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Comprobacion" vertex="1">
+          <mxGeometry height="20" width="222" x="888" as="geometry">
+            <mxRectangle height="20" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-91" parent="1GOfkMONHc0E9LckjV6v-85" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="50" width="1110" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-92" parent="1GOfkMONHc0E9LckjV6v-91" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#a20025;strokeColor=#000000;fontColor=#ffffff;" value="RM-19" vertex="1">
+          <mxGeometry height="50" width="91" as="geometry">
+            <mxRectangle height="50" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-93" parent="1GOfkMONHc0E9LckjV6v-91" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Métodos abstractos" vertex="1">
+          <mxGeometry height="50" width="181" x="91" as="geometry">
+            <mxRectangle height="50" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-94" parent="1GOfkMONHc0E9LckjV6v-91" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="La superclase abstracta declara al menos un método abstracto y cada subclase lo implementa con @Override de manera diferente." vertex="1">
+          <mxGeometry height="50" width="516" x="272" as="geometry">
+            <mxRectangle height="50" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-95" parent="1GOfkMONHc0E9LckjV6v-91" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="788" as="geometry">
+            <mxRectangle height="50" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-248" parent="1GOfkMONHc0E9LckjV6v-91" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeColor=#000000;" value="Pedido y Producto declaran métodos abstractos implementados por sus respectivas subclases." vertex="1">
+          <mxGeometry height="50" width="222" x="888" as="geometry">
+            <mxRectangle height="50" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-96" parent="1GOfkMONHc0E9LckjV6v-85" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="60" width="1110" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-97" parent="1GOfkMONHc0E9LckjV6v-96" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#a20025;strokeColor=#000000;fontColor=#ffffff;" value="RM-20" vertex="1">
+          <mxGeometry height="60" width="91" as="geometry">
+            <mxRectangle height="60" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-98" parent="1GOfkMONHc0E9LckjV6v-96" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Recorrido polimórfico" vertex="1">
+          <mxGeometry height="60" width="181" x="91" as="geometry">
+            <mxRectangle height="60" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-99" parent="1GOfkMONHc0E9LckjV6v-96" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="El sistema recorre una colección declarada con el tipo de la superclase y llama al método polimórfico sobre cada elemento, sin preguntar por el tipo concreto. El recorrido debe tener un uso real en el programa." vertex="1">
+          <mxGeometry height="60" width="516" x="272" as="geometry">
+            <mxRectangle height="60" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-100" parent="1GOfkMONHc0E9LckjV6v-96" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="788" as="geometry">
+            <mxRectangle height="60" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-249" parent="1GOfkMONHc0E9LckjV6v-96" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=#000000;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;El reporte recorre una colección List&amp;lt;pedido&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;y utiliza calcularTotal()&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&amp;nbsp;polimórficamente.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="222" x="888" as="geometry">
+            <mxRectangle height="60" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-101" parent="1GOfkMONHc0E9LckjV6v-85" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="50" width="1110" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-102" parent="1GOfkMONHc0E9LckjV6v-101" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="RM-21" vertex="1">
+          <mxGeometry height="50" width="91" as="geometry">
+            <mxRectangle height="50" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-103" parent="1GOfkMONHc0E9LckjV6v-101" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Implementación de interfaces" vertex="1">
+          <mxGeometry height="50" width="181" x="91" as="geometry">
+            <mxRectangle height="50" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-104" parent="1GOfkMONHc0E9LckjV6v-101" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Existe al menos una interfaz propia que define un contrato, implementada por al menos dos clases que no pertenecen a la misma rama de la jerarquía. Hay código que las utiliza a través del tipo de la interfaz." vertex="1">
+          <mxGeometry height="50" width="516" x="272" as="geometry">
+            <mxRectangle height="50" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-105" parent="1GOfkMONHc0E9LckjV6v-101" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="788" as="geometry">
+            <mxRectangle height="50" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-250" parent="1GOfkMONHc0E9LckjV6v-101" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeColor=#000000;" value="Buscable es implementada por Producto y Cliente, que se utilizan mediante esa interfaz." vertex="1">
+          <mxGeometry height="50" width="222" x="888" as="geometry">
+            <mxRectangle height="50" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-106" parent="1GOfkMONHc0E9LckjV6v-85" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="50" width="1110" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-107" parent="1GOfkMONHc0E9LckjV6v-106" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#e3c800;strokeColor=#000000;fontColor=#000000;" value="RM-22" vertex="1">
+          <mxGeometry height="50" width="91" as="geometry">
+            <mxRectangle height="50" width="91" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-108" parent="1GOfkMONHc0E9LckjV6v-106" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Uso de instanceof y casting" vertex="1">
+          <mxGeometry height="50" width="181" x="91" as="geometry">
+            <mxRectangle height="50" width="181" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-109" parent="1GOfkMONHc0E9LckjV6v-106" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Si se utiliza instanceof y casting, es solamente para acceder a un comportamiento exclusivo de una subclase y debe justificarse en la defensa por qué no se resolvió mediante polimorfismo. No es obligatorio utilizarlo." vertex="1">
+          <mxGeometry height="50" width="516" x="272" as="geometry">
+            <mxRectangle height="50" width="516" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-110" parent="1GOfkMONHc0E9LckjV6v-106" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;fontStyle=1" value="CUMPLIDO" vertex="1">
+          <mxGeometry height="50" width="100" x="788" as="geometry">
+            <mxRectangle height="50" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-251" parent="1GOfkMONHc0E9LckjV6v-106" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#e3c800;strokeColor=#000000;fontColor=#000000;" vertex="1">
+          <mxGeometry height="50" width="222" x="888" as="geometry">
+            <mxRectangle height="50" width="222" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-111" parent="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#000000;fillColor=none;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="260" width="1110" x="-510" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-174" parent="1GOfkMONHc0E9LckjV6v-111" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" vertex="1">
+          <mxGeometry height="40" width="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-175" parent="1GOfkMONHc0E9LckjV6v-174" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;rowspan=1;colspan=4;" value="PROGRAMA DE CONSOLA" vertex="1">
+          <mxGeometry height="40" width="890" as="geometry">
+            <mxRectangle height="40" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-176" parent="1GOfkMONHc0E9LckjV6v-174" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="180" x="90" as="geometry">
+            <mxRectangle height="40" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-177" parent="1GOfkMONHc0E9LckjV6v-174" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="511" x="270" as="geometry">
+            <mxRectangle height="40" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-178" parent="1GOfkMONHc0E9LckjV6v-174" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="109" x="781" as="geometry">
+            <mxRectangle height="40" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-252" parent="1GOfkMONHc0E9LckjV6v-174" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" vertex="1">
+          <mxGeometry height="40" width="220" x="890" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-112" parent="1GOfkMONHc0E9LckjV6v-111" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="20" width="1110" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-113" parent="1GOfkMONHc0E9LckjV6v-112" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Código" vertex="1">
+          <mxGeometry height="20" width="90" as="geometry">
+            <mxRectangle height="20" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-114" parent="1GOfkMONHc0E9LckjV6v-112" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Nombre" vertex="1">
+          <mxGeometry height="20" width="180" x="90" as="geometry">
+            <mxRectangle height="20" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-115" parent="1GOfkMONHc0E9LckjV6v-112" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Característica" vertex="1">
+          <mxGeometry height="20" width="511" x="270" as="geometry">
+            <mxRectangle height="20" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-116" parent="1GOfkMONHc0E9LckjV6v-112" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Estado" vertex="1">
+          <mxGeometry height="20" width="109" x="781" as="geometry">
+            <mxRectangle height="20" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-253" parent="1GOfkMONHc0E9LckjV6v-112" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Comprobacion" vertex="1">
+          <mxGeometry height="20" width="220" x="890" as="geometry">
+            <mxRectangle height="20" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-117" parent="1GOfkMONHc0E9LckjV6v-111" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="1110" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-118" parent="1GOfkMONHc0E9LckjV6v-117" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#a20025;strokeColor=#000000;fontColor=#ffffff;" value="RM-23" vertex="1">
+          <mxGeometry height="40" width="90" as="geometry">
+            <mxRectangle height="40" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-119" parent="1GOfkMONHc0E9LckjV6v-117" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Menú interactivo" vertex="1">
+          <mxGeometry height="40" width="180" x="90" as="geometry">
+            <mxRectangle height="40" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-120" parent="1GOfkMONHc0E9LckjV6v-117" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="El programa ofrece un menú interactivo utilizando Scanner, que se repite hasta que el usuario elige salir." vertex="1">
+          <mxGeometry height="40" width="511" x="270" as="geometry">
+            <mxRectangle height="40" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-121" parent="1GOfkMONHc0E9LckjV6v-117" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;fontStyle=1" value="&lt;span&gt;CUMPLIDO&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="109" x="781" as="geometry">
+            <mxRectangle height="40" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-254" parent="1GOfkMONHc0E9LckjV6v-117" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontStyle=0;strokeColor=#000000;" value="La consola utiliza Scanner y un menu que se repite hasta que se selecciona salir." vertex="1">
+          <mxGeometry height="40" width="220" x="890" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-122" parent="1GOfkMONHc0E9LckjV6v-111" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="60" width="1110" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-123" parent="1GOfkMONHc0E9LckjV6v-122" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#F9F9F9;strokeColor=#000000;" value="RM-24" vertex="1">
+          <mxGeometry height="60" width="90" as="geometry">
+            <mxRectangle height="60" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-124" parent="1GOfkMONHc0E9LckjV6v-122" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Operaciones del menú" vertex="1">
+          <mxGeometry height="60" width="180" x="90" as="geometry">
+            <mxRectangle height="60" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-125" parent="1GOfkMONHc0E9LckjV6v-122" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="El menú ofrece como mínimo: alta de objetos de al menos dos tipos distintos de la jerarquía, listado, búsqueda por algún criterio, una operación propia de la temática que modifique el estado de los objetos y un reporte que utilice el recorrido polimórfico de RM-20." vertex="1">
+          <mxGeometry height="60" width="511" x="270" as="geometry">
+            <mxRectangle height="60" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-126" parent="1GOfkMONHc0E9LckjV6v-122" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;fontStyle=1" value="&lt;span&gt;CUMPLIDO&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="109" x="781" as="geometry">
+            <mxRectangle height="60" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-255" parent="1GOfkMONHc0E9LckjV6v-122" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontStyle=0;strokeColor=#000000;" value="El menú permite altas, listados, búsquedas, modificaciones, operaciones del negocio y reportes." vertex="1">
+          <mxGeometry height="60" width="220" x="890" as="geometry">
+            <mxRectangle height="60" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-127" parent="1GOfkMONHc0E9LckjV6v-111" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="50" width="1110" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-128" parent="1GOfkMONHc0E9LckjV6v-127" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="RM-25" vertex="1">
+          <mxGeometry height="50" width="90" as="geometry">
+            <mxRectangle height="50" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-129" parent="1GOfkMONHc0E9LckjV6v-127" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Datos precargados" vertex="1">
+          <mxGeometry height="50" width="180" x="90" as="geometry">
+            <mxRectangle height="50" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-130" parent="1GOfkMONHc0E9LckjV6v-127" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="El programa arranca con datos de prueba precargados, incluyendo al menos un objeto de cada subclase." vertex="1">
+          <mxGeometry height="50" width="511" x="270" as="geometry">
+            <mxRectangle height="50" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-131" parent="1GOfkMONHc0E9LckjV6v-127" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;fontStyle=1" value="&lt;span&gt;CUMPLIDO&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="109" x="781" as="geometry">
+            <mxRectangle height="50" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-256" parent="1GOfkMONHc0E9LckjV6v-127" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontStyle=0;strokeColor=#000000;" value="Main precarga productos de ambas subclases, clientes y pedidos de ambas modalidades." vertex="1">
+          <mxGeometry height="50" width="220" x="890" as="geometry">
+            <mxRectangle height="50" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-132" parent="1GOfkMONHc0E9LckjV6v-111" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="50" width="1110" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-133" parent="1GOfkMONHc0E9LckjV6v-132" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#F9F9F9;strokeColor=#000000;" value="RM-26" vertex="1">
+          <mxGeometry height="50" width="90" as="geometry">
+            <mxRectangle height="50" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-134" parent="1GOfkMONHc0E9LckjV6v-132" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Control de entradas inválidas" vertex="1">
+          <mxGeometry height="50" width="180" x="90" as="geometry">
+            <mxRectangle height="50" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-135" parent="1GOfkMONHc0E9LckjV6v-132" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="El programa no se interrumpe ante entradas inválidas comunes, como letras donde se espera un número, opciones inexistentes o códigos inexistentes. Informa el problema y vuelve a pedir el dato." vertex="1">
+          <mxGeometry height="50" width="511" x="270" as="geometry">
+            <mxRectangle height="50" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-136" parent="1GOfkMONHc0E9LckjV6v-132" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="109" x="781" as="geometry">
+            <mxRectangle height="50" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-257" parent="1GOfkMONHc0E9LckjV6v-132" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#F9F9F9;strokeColor=#000000;" value="Si se ingresa un dato incorrecto, informa el problema y vuelve a pedir el dato." vertex="1">
+          <mxGeometry height="50" width="220" x="890" as="geometry">
+            <mxRectangle height="50" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-138" parent="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#000000;fillColor=none;collapsible=0;fontColor=#000000;" value="" vertex="1">
+          <mxGeometry height="210" width="1110" x="-510" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-169" parent="1GOfkMONHc0E9LckjV6v-138" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" vertex="1">
+          <mxGeometry height="40" width="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-170" parent="1GOfkMONHc0E9LckjV6v-169" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;rowspan=1;colspan=4;" value="CALIDAD Y ORGANIZACION" vertex="1">
+          <mxGeometry height="40" width="890" as="geometry">
+            <mxRectangle height="40" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-171" parent="1GOfkMONHc0E9LckjV6v-169" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="180" x="90" as="geometry">
+            <mxRectangle height="40" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-172" parent="1GOfkMONHc0E9LckjV6v-169" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="511" x="270" as="geometry">
+            <mxRectangle height="40" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-173" parent="1GOfkMONHc0E9LckjV6v-169" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="109" x="781" as="geometry">
+            <mxRectangle height="40" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-258" parent="1GOfkMONHc0E9LckjV6v-169" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" vertex="1">
+          <mxGeometry height="40" width="220" x="890" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-139" parent="1GOfkMONHc0E9LckjV6v-138" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="20" width="1110" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-140" parent="1GOfkMONHc0E9LckjV6v-139" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Código" vertex="1">
+          <mxGeometry height="20" width="90" as="geometry">
+            <mxRectangle height="20" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-141" parent="1GOfkMONHc0E9LckjV6v-139" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Nombre" vertex="1">
+          <mxGeometry height="20" width="180" x="90" as="geometry">
+            <mxRectangle height="20" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-142" parent="1GOfkMONHc0E9LckjV6v-139" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Característica" vertex="1">
+          <mxGeometry height="20" width="511" x="270" as="geometry">
+            <mxRectangle height="20" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-143" parent="1GOfkMONHc0E9LckjV6v-139" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Estado" vertex="1">
+          <mxGeometry height="20" width="109" x="781" as="geometry">
+            <mxRectangle height="20" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-259" parent="1GOfkMONHc0E9LckjV6v-139" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Comrpobacion" vertex="1">
+          <mxGeometry height="20" width="220" x="890" as="geometry">
+            <mxRectangle height="20" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-144" parent="1GOfkMONHc0E9LckjV6v-138" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="50" width="1110" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-145" parent="1GOfkMONHc0E9LckjV6v-144" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="RM-27" vertex="1">
+          <mxGeometry height="50" width="90" as="geometry">
+            <mxRectangle height="50" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-146" parent="1GOfkMONHc0E9LckjV6v-144" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Convenciones de Java" vertex="1">
+          <mxGeometry height="50" width="180" x="90" as="geometry">
+            <mxRectangle height="50" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-147" parent="1GOfkMONHc0E9LckjV6v-144" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Se respetan las convenciones: PascalCase para clases, camelCase para métodos y variables, MAYÚSCULAS para constantes y nombres descriptivos." vertex="1">
+          <mxGeometry height="50" width="511" x="270" as="geometry">
+            <mxRectangle height="50" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-148" parent="1GOfkMONHc0E9LckjV6v-144" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="109" x="781" as="geometry">
+            <mxRectangle height="50" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-260" parent="1GOfkMONHc0E9LckjV6v-144" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;strokeColor=#000000;" value="Utilizamos nombres de clases en PascalCase y métodos y variables en camelCase." vertex="1">
+          <mxGeometry height="50" width="220" x="890" as="geometry">
+            <mxRectangle height="50" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-149" parent="1GOfkMONHc0E9LckjV6v-138" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="1110" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-150" parent="1GOfkMONHc0E9LckjV6v-149" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#F9F9F9;strokeColor=#000000;" value="RM-28" vertex="1">
+          <mxGeometry height="40" width="90" as="geometry">
+            <mxRectangle height="40" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-151" parent="1GOfkMONHc0E9LckjV6v-149" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Documentación Javadoc" vertex="1">
+          <mxGeometry height="40" width="180" x="90" as="geometry">
+            <mxRectangle height="40" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-152" parent="1GOfkMONHc0E9LckjV6v-149" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Las clases de dominio y sus métodos públicos tienen comentarios Javadoc breves que explican qué representa la clase, qué hace el método y qué devuelve." vertex="1">
+          <mxGeometry height="40" width="511" x="270" as="geometry">
+            <mxRectangle height="40" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-153" parent="1GOfkMONHc0E9LckjV6v-149" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="109" x="781" as="geometry">
+            <mxRectangle height="40" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-261" parent="1GOfkMONHc0E9LckjV6v-149" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#F9F9F9;strokeColor=#000000;" value="Comentarios en todas las clases con explicaciones breves." vertex="1">
+          <mxGeometry height="40" width="220" x="890" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-154" parent="1GOfkMONHc0E9LckjV6v-138" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;align=left;" value="" vertex="1">
+          <mxGeometry height="60" width="1110" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-155" parent="1GOfkMONHc0E9LckjV6v-154" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="RM-29" vertex="1">
+          <mxGeometry height="60" width="90" as="geometry">
+            <mxRectangle height="60" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-156" parent="1GOfkMONHc0E9LckjV6v-154" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Calidad y mantenimiento del código" vertex="1">
+          <mxGeometry height="60" width="180" x="90" as="geometry">
+            <mxRectangle height="60" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-157" parent="1GOfkMONHc0E9LckjV6v-154" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="No hay código duplicado evitable ni métodos excesivamente largos. Los valores fijos del problema, como porcentajes, límites y precios base, se declaran como constantes static final." vertex="1">
+          <mxGeometry height="60" width="511" x="270" as="geometry">
+            <mxRectangle height="60" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-158" parent="1GOfkMONHc0E9LckjV6v-154" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;fontStyle=1" value="CUMPLIDO" vertex="1">
+          <mxGeometry height="60" width="109" x="781" as="geometry">
+            <mxRectangle height="60" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-262" parent="1GOfkMONHc0E9LckjV6v-154" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="Constantes bien utilizadas.&lt;br&gt;No hay código duplicado.&lt;br&gt;No hay métodos excesivamente largos." vertex="1">
+          <mxGeometry height="60" width="220" x="890" as="geometry">
+            <mxRectangle height="60" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="table_main" parent="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#000000;fillColor=#60a917;collapsible=0;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="300" width="1110" x="-510" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-159" parent="table_main" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" vertex="1">
+          <mxGeometry height="40" width="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-160" parent="1GOfkMONHc0E9LckjV6v-159" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;align=center;verticalAlign=middle;strokeColor=#000000;rowspan=1;colspan=4;fontColor=#FFFFFF;" value="ESTRUCTURA Y MODELADO" vertex="1">
+          <mxGeometry height="40" width="890" as="geometry">
+            <mxRectangle height="40" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-161" parent="1GOfkMONHc0E9LckjV6v-159" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="180" x="90" as="geometry">
+            <mxRectangle height="40" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-162" parent="1GOfkMONHc0E9LckjV6v-159" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="511" x="270" as="geometry">
+            <mxRectangle height="40" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-163" parent="1GOfkMONHc0E9LckjV6v-159" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#666666;" vertex="1" visible="0">
+          <mxGeometry height="40" width="109" x="781" as="geometry">
+            <mxRectangle height="40" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-200" parent="1GOfkMONHc0E9LckjV6v-159" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#000000;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="220" x="890" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="row_header" parent="table_main" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="20" width="1110" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h_cod" parent="row_header" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Código" vertex="1">
+          <mxGeometry height="20" width="90" as="geometry">
+            <mxRectangle height="20" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_nom" parent="row_header" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Nombre" vertex="1">
+          <mxGeometry height="20" width="180" x="90" as="geometry">
+            <mxRectangle height="20" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_car" parent="row_header" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=8;strokeColor=#000000;" value="Característica" vertex="1">
+          <mxGeometry height="20" width="511" x="270" as="geometry">
+            <mxRectangle height="20" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_est" parent="row_header" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Estado" vertex="1">
+          <mxGeometry height="20" width="109" x="781" as="geometry">
+            <mxRectangle height="20" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-201" parent="row_header" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#232F3E;fontColor=#FFFFFF;align=center;verticalAlign=middle;strokeColor=#000000;" value="Comrpobacion" vertex="1">
+          <mxGeometry height="20" width="220" x="890" as="geometry">
+            <mxRectangle height="20" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="row_1" parent="table_main" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="80" width="1110" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_1_1" parent="row_1" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#a20025;strokeColor=#000000;fontColor=#ffffff;" value="RM-01" vertex="1">
+          <mxGeometry height="80" width="90" as="geometry">
+            <mxRectangle height="80" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_1_2" parent="row_1" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Compilación y ejecución" vertex="1">
+          <mxGeometry height="80" width="180" x="90" as="geometry">
+            <mxRectangle height="80" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_1_3" parent="row_1" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="El programa compila y se ejecuta por consola sin errores, utilizando Java estándar y sin librerías externas." vertex="1">
+          <mxGeometry height="80" width="511" x="270" as="geometry">
+            <mxRectangle height="80" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_1_4" parent="row_1" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="109" x="781" as="geometry">
+            <mxRectangle height="80" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-202" parent="row_1" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;Java 26.0.2 está instalado.&lt;br&gt;&lt;/span&gt;&lt;code style=&quot;background-color: transparent;&quot;&gt;javac&lt;/code&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt; 26.0.2 funciona.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Todas las clases compilan sin errores.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;El programa se ejecuta desde la terminal&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="890" as="geometry">
+            <mxRectangle height="80" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="row_2" parent="table_main" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="1110" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="c_2_1" parent="row_2" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#F9F9F9;strokeColor=#000000;" value="RM-02" vertex="1">
+          <mxGeometry height="40" width="90" as="geometry">
+            <mxRectangle height="40" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_2_2" parent="row_2" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Clases de dominio" vertex="1">
+          <mxGeometry height="40" width="180" x="90" as="geometry">
+            <mxRectangle height="40" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_2_3" parent="row_2" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="El modelo tiene al menos 8 clases de dominio (tres integrantes), sin contar la clase Main ni la clase de consola." vertex="1">
+          <mxGeometry height="40" width="511" x="270" as="geometry">
+            <mxRectangle height="40" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_2_4" parent="row_2" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="109" x="781" as="geometry">
+            <mxRectangle height="40" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-203" parent="row_2" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#F9F9F9;strokeColor=#000000;" value="8 clases de dominio&lt;div&gt;2 jerarquías independientes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="890" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="row_3" parent="table_main" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="1110" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="c_3_1" parent="row_3" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="RM-03" vertex="1">
+          <mxGeometry height="40" width="90" as="geometry">
+            <mxRectangle height="40" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_3_2" parent="row_3" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Organización del proyecto" vertex="1">
+          <mxGeometry height="40" width="180" x="90" as="geometry">
+            <mxRectangle height="40" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_3_3" parent="row_3" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="El programa se organiza en tres partes: clases de dominio, clase gestora y clase de consola." vertex="1">
+          <mxGeometry height="40" width="511" x="270" as="geometry">
+            <mxRectangle height="40" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_3_4" parent="row_3" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="109" x="781" as="geometry">
+            <mxRectangle height="40" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-204" parent="row_3" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="Programa organizado en 3 partes." vertex="1">
+          <mxGeometry height="40" width="220" x="890" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="row_4" parent="table_main" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="1110" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="c_4_1" parent="row_4" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#F9F9F9;strokeColor=#000000;" value="RM-04" vertex="1">
+          <mxGeometry height="40" width="90" as="geometry">
+            <mxRectangle height="40" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_4_2" parent="row_4" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Separación del dominio" vertex="1">
+          <mxGeometry height="40" width="180" x="90" as="geometry">
+            <mxRectangle height="40" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_4_3" parent="row_4" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#F9F9F9;strokeColor=#000000;" value="Las clases de dominio no leen del teclado ni imprimen en pantalla. Toda la entrada y salida queda en la clase de consola." vertex="1">
+          <mxGeometry height="40" width="511" x="270" as="geometry">
+            <mxRectangle height="40" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_4_4" parent="row_4" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="109" x="781" as="geometry">
+            <mxRectangle height="40" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-205" parent="row_4" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#F9F9F9;strokeColor=#000000;" value="Las clases de modelo no utilizan sout&amp;nbsp;ni scanner" vertex="1">
+          <mxGeometry height="40" width="220" x="890" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="row_5" parent="table_main" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[];part=1;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="1110" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="c_5_1" parent="row_5" style="shape=tableCell;whiteSpace=wrap;html=1;fontStyle=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="RM-05" vertex="1">
+          <mxGeometry height="40" width="90" as="geometry">
+            <mxRectangle height="40" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_5_2" parent="row_5" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="Método Main" vertex="1">
+          <mxGeometry height="40" width="180" x="90" as="geometry">
+            <mxRectangle height="40" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_5_3" parent="row_5" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=8;fillColor=#FFFFFF;strokeColor=#000000;" value="El método main es breve: crea los objetos iniciales y lanza el menú. No contiene lógica del problema." vertex="1">
+          <mxGeometry height="40" width="511" x="270" as="geometry">
+            <mxRectangle height="40" width="511" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c_5_4" parent="row_5" style="shape=tableCell;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#60a917;strokeColor=#000000;fontColor=#000000;" value="&lt;b&gt;CUMPLIDO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="109" x="781" as="geometry">
+            <mxRectangle height="40" width="109" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-206" parent="row_5" style="shape=tableCell;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#000000;" value="Main crea los objetos e inicia la consola." vertex="1">
+          <mxGeometry height="40" width="220" x="890" as="geometry">
+            <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-199" parent="1" style="whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#a20025;strokeColor=#000000;" value="&lt;b&gt;EXCLUYENTES&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="-510" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-270" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#000000;align=left;" value="&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;RM-15&lt;br&gt;&lt;br&gt;Producto → Plato&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Un plato es un producto porque comparte características generales como código, nombre, precio y stock, pero tiene características particulares como su tipo y fecha de disponibilidad.&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Producto → Bebida&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Una bebida es un producto porque comparte código, nombre, precio y stock, pero incorpora una presentación específica.&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Pedido → PedidoDelivery&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Un pedido delivery es un pedido porque conserva toda la información general del pedido, pero incorpora un costo de envío.&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Pedido → PedidoRetiro&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Un pedido para retirar es un pedido porque conserva la información y las operaciones generales, pero no necesita costo de envío.&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="311" width="890" x="620" y="1132" as="geometry" />
+        </mxCell>
+        <mxCell id="1GOfkMONHc0E9LckjV6v-271" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#000000;align=left;" value="&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;RM-22&lt;br&gt;&lt;br&gt;Se utiliza &lt;code&gt;instanceof&lt;/code&gt; en el método &lt;code&gt;registrarProducto()&lt;/code&gt; para identificar los objetos de tipo &lt;code&gt;Plato&lt;/code&gt; y acceder a características específicas de esa subclase, como el tipo de plato y su fecha de disponibilidad. No se utiliza polimorfismo porque esta validación corresponde exclusivamente a los platos y no representa un comportamiento común a todos los productos. De esta manera, se controla que no se registren más de dos menús especiales para una misma fecha.&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="890" x="620" y="1650" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
